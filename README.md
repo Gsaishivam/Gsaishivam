@@ -1,6 +1,7 @@
+[![MasterHead](https://www.pinterest.com/pin/coding-gif-coding-discover-share-gifs--858428378991517366/)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Saishivam Gupta</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
-
+<img align="right" alt="Coding" width="400" src="https://gifdb.com/gif/umiko-ahagon-desktop-programming-eg5f8g2281ekfhde.html">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gsaishivam&label=Profile%20views&color=0e75b6&style=flat" alt="gsaishivam" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gsaishivam" alt="gsaishivam" /></a> </p>
@@ -23,7 +24,6 @@
 <a href="https://www.linkedin.com/in/saishivam-gupta-6469381a0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saishivam gupta" height="30" width="40" /></a>
 <a href="https://www.kaggle.com/saishivamgupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="saishivam gupta" height="30" width="40" /></a>
 <a href="https://instagram.com/guptasaishivam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="guptasaishivam" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/saishivamgupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="saishivamgupta" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/saishivamgupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="saishivam gupta" height="30" width="40" /></a>
 
 
