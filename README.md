@@ -1,9 +1,9 @@
-[![MasterHead](https://www.pinterest.com/pin/coding-gif-coding-discover-share-gifs--858428378991517366/)](https://rishavchanda.io)
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://www.pinterest.com/pin/coding-gif-coding-discover-share-gifs--858428378991517366/)
 <h1 align="center">Hi 👋, I'm Saishivam Gupta</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://gifdb.com/gif/umiko-ahagon-desktop-programming-eg5f8g2281ekfhde.html">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gsaishivam&label=Profile%20views&color=0e75b6&style=flat" alt="gsaishivam" /> </p>
+<img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/umiko-ahagon-desktop-programming-eg5f8g2281ekfhde.gif">
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gsaishivam&label=Profile%20views&color=0e75b6&style=flat" alt="gsaishivam" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gsaishivam" alt="gsaishivam" /></a> </p>
 
 - 🔭 I’m currently working on **a site which shows cracked and uncracked games**
