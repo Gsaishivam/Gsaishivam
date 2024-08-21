@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React,Typescript,AWS**
 
-- 🤝 I’m looking for help with **ML or DL projects**
+- 🤝 I’m looking for help with **ML/DL projects**
 
 - 💬 Ask me about **Data structures and algorithms,react-js,Machine learning**
 
@@ -50,7 +50,7 @@
 
 # About ME 💬 :
 
-### - I'm 19 years  old Machine Learning & Artificial Intelligence Enthusiast from India.
+### - I'm 19 years old Machine Learning & Artificial Intelligence Enthusiast from India.
 
 <img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
 
